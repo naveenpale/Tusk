@@ -5,6 +5,9 @@ upma
 snacks
 sweets
 
+pizza
+samosa
+
 
 thanks 
 
